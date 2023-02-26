@@ -15,14 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tarunsinghdev/mern-ecommerce.git"
+    "url": "git+https://github.com/Nirbhay91/emart-shopping"
   },
-  "author": "Tarun Singh",
+  "author": "Nirbhay Kaushik",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/tarunsinghdev/mern-ecommerce/issues"
-  },
-  "homepage": "https://github.com/tarunsinghdev/mern-ecommerce#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
