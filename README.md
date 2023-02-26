@@ -15,10 +15,6 @@ This app is hosted on [Render](https://render.com/) under [free plan](https://re
 
 > **Email** : mike.tyson@gmail.com <br /> **Password** : 123456
 
-**Paypal Credentials** <br/>
-
-> **Email** : tarun@emart.com <br/> **Password** : tarun@emart
-
 ## ⭐️ Features
 
 - Authentication
