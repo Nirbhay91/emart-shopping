@@ -17,7 +17,7 @@ This app is hosted on [Render](https://render.com/) under [free plan](https://re
 
 **Paypal Credentials** <br/>
 
-> **Email** : tarun@emart.com <br/> **Password** : tarun@emart
+> **Email** : nirbhay@emart.com <br/> **Password** : nirbhay@emart
 
 ## ⭐️ Features
 
